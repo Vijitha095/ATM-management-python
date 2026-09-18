@@ -49,3 +49,5 @@ while True:
     else:
         print("Invalid choice")
         print("========================")
+
+print("bye")
